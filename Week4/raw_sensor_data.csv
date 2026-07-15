@@ -1,0 +1,7 @@
+Sensor_ID,Temperature,Humidity,Location
+101,28.5,65.0,Room1
+102,,60.0,Room2
+103,30.2,,Room3
+103,30.2,,Room3
+104,27.8,70.0,Room1
+105,31.0,55.0,Room2
