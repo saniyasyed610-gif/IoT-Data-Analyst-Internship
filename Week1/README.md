@@ -1,34 +1,24 @@
-# Week 1: Introduction to IoT and Development Environment
+# IoT Data Analyst Internship
 
-## Objective
-Learn the fundamentals of the Internet of Things (IoT) and set up the required development environment.
+## Week 1 - Introduction to IoT and Development Environment
 
-## Tasks Completed
-- Installed Python, VS Code and Jupyter Notebook.
-- Learned basic IoT concepts.
-- Studied sensors and actuators.
-- Learned IoT communication protocols (MQTT and HTTP).
-- Studied Edge Computing.
-- Configured Git and GitHub.
-- Created basic Python programs.
-- Created a Jupyter Notebook.
+### Internship Objectives
 
-## Files Included
-- IoT_Architecture_Report saniya.docx
-- IoT_Architecture_Report saniya.s.pdf
-- hello.py
-- sensor_data.py
-- sensor_intro.ipynb
-- edge_computing.md
-- iot_notes.md
-- protocol_comparison.md
+- Learn IoT fundamentals
+- Understand sensors and actuators
+- Learn IoT communication protocols (MQTT and HTTP)
+- Understand edge computing
+- Install Python, VS Code, Git, and Jupyter Notebook
+- Configure Git and GitHub
 
-## Technologies Used
-- Python
-- VS Code
+### Week 1 Deliverables
+
+- IoT Architecture Report
+- Python Programs
 - Jupyter Notebook
-- Git
-- GitHub
+- IoT Notes
+- Protocol Comparison
+- Edge Computing Notes
 
-## Author
+### Author
 Saniya Syed
